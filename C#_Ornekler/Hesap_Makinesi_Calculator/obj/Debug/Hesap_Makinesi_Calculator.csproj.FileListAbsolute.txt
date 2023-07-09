@@ -1,0 +1,11 @@
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\bin\Debug\Hesap_Makinesi_Calculator.exe.config
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\bin\Debug\Hesap_Makinesi_Calculator.exe
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\bin\Debug\Hesap_Makinesi_Calculator.pdb
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.csproj.AssemblyReference.cache
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.Form1.resources
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.Properties.Resources.resources
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.csproj.GenerateResource.cache
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.exe
+C:\Users\Mucahit\Desktop\C#_Ornekler\Hesap_Makinesi_Calculator\obj\Debug\Hesap_Makinesi_Calculator.pdb
